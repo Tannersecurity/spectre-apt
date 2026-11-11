@@ -1,0 +1,24 @@
+Architectures: all
+Codename: stable
+Components: main
+Date: Wed, 11 Nov 2026 14:13:18 +0000
+Description: Spectre apt archive
+Label: Spectre
+Origin: Spectre
+Suite: stable
+MD5Sum:
+ 85981197e5eec90b24de3d2f81dd758d              169 Release
+ 7350accae1d40bec95b05e02cdf99bc9              669 main/binary-all/Packages
+ 07fc67bdeffea7701ee94714ab72b52f              492 main/binary-all/Packages.gz
+SHA1:
+ 2773a3dbcdf156b9af464851ed1cc765b0142a24              169 Release
+ ef5ec52e5db44fd99a3029f7e7e638feb6da5048              669 main/binary-all/Packages
+ a0a5c16ec85bbc77a11c3a66214927b8ff9585c9              492 main/binary-all/Packages.gz
+SHA256:
+ ecce9c693673c7a1b5a0d92844547fc5187081978682613515362c4a75f7cd83              169 Release
+ 58cd3dfcc8af142db0445804b4f1b846ed4479a21468d857158fd2579d49f46f              669 main/binary-all/Packages
+ 0d43f322fb6e8d605637bdb78bc2c29f9f04eed397cf4f6e6b491dd584bb11c2              492 main/binary-all/Packages.gz
+SHA512:
+ 6a87326605f3dda92b24eabf815da28497c4fb433fc808be8e09c92ba57572a7540889b464c05c79f93f1e612f9fb19967ba48d6281eebac49bcb46d6c52348e              169 Release
+ f27755c6469c9d58709ee145d5f39d27f2ba4df60e2fc7dc1618efd217a2e76fa3f7e47c21a0f265358610dd440df0e6e6e38c5c30ff5e868bb4ac0b20b8fad2              669 main/binary-all/Packages
+ 9815c7349ddea8eac1f35fd9667b56bfbad68515ef16de6851d6ef00098406a80dfd71b06ed72f0d7d722394b3cc539d48868c491213eccb16abb60ccf94022a              492 main/binary-all/Packages.gz
