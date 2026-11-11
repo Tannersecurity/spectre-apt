@@ -1,15 +1,15 @@
 Package: spectre
-Version: 0.3.1
+Version: 0.3.2
 Architecture: all
 Maintainer: Benjamin Tanners <noreply@invalid>
-Installed-Size: 184
+Installed-Size: 192
 Depends: python3 (>= 3.10)
 Recommends: spectre-code
-Filename: pool/main/s/spectre/spectre_0.3.1_all.deb
-Size: 31056
-MD5sum: 7ab0221bd69a24d4fd9c64c679b51448
-SHA1: 53cf6e731da8d0f0e2dbaf0c429b12136a370888
-SHA256: 30f9ce467a69613ceb71e40e4367456c0d49fedee385c079a84a2baba304a99c
+Filename: pool/main/s/spectre/spectre_0.3.2_all.deb
+Size: 31896
+MD5sum: cf9c2e94a1fcc82a765f2e1e0be3bdd1
+SHA1: e17c01a0e3592860e97d341a2da18af6a2efe982
+SHA256: 0f6e08dd85acd67a77f6b6b712702189d8c77f2942061b869875da9fe8708b4d
 Section: utils
 Priority: optional
 Description: Kleines Agenten-Harness (Spectre)
@@ -19,16 +19,16 @@ Description: Kleines Agenten-Harness (Spectre)
  Erste Einrichtung: spectre init
 
 Package: spectre-code
-Version: 0.3.1
+Version: 0.3.2
 Architecture: all
 Maintainer: Benjamin Tanners <noreply@invalid>
-Installed-Size: 20720
-Depends: spectre (= 0.3.1), python3 (>= 3.10)
-Filename: pool/main/s/spectre/spectre-code_0.3.1_all.deb
-Size: 3292272
-MD5sum: 63556c1fd914f4dc1eed9cc8d59fd940
-SHA1: 4663819cc561df3a206a0eefea2e3d0368c243ab
-SHA256: 12500cf485c72ba9423e8d724e2ec27b30ad4f55f276d6faf43800440f52dade
+Installed-Size: 20736
+Depends: spectre (= 0.3.2), python3 (>= 3.10)
+Filename: pool/main/s/spectre/spectre-code_0.3.2_all.deb
+Size: 3295452
+MD5sum: a188287f9e6af100549ea53a7825a4cd
+SHA1: 18464a810eec1482fa3abbd2a4d708fcdbea02a9
+SHA256: 39d2f723ec4c75d11ec84e9e2fac115f5ce52625bf4939275204d3c7924b8fd1
 Section: utils
 Priority: optional
 Description: Terminal-Oberflaeche fuer Spectre (Spectre Code)
