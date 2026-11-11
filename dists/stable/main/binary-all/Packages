@@ -1,0 +1,18 @@
+Package: spectre
+Version: 0.1.0
+Architecture: all
+Maintainer: Benjamin Tanners <noreply@invalid>
+Installed-Size: 140
+Depends: python3 (>= 3.10)
+Filename: pool/main/s/spectre/spectre_0.1.0_all.deb
+Size: 21172
+MD5sum: 88282972a9be39d66535de3bbad28d31
+SHA1: 295f392defd48c742d11f55ec9a74b59e77d967b
+SHA256: 39c82d7966af3d6df0165faf0c0f93bc14ca661b4b441c662daa5d1c5fc407b8
+Section: utils
+Priority: optional
+Description: Kleines Agenten-Harness (Spectre)
+ Spectre ruft ein Sprachmodell ueber OpenRouter auf und gibt ihm Werkzeuge
+ (Dateien im Arbeitsordner lesen und schreiben, Notizgedaechtnis), mit
+ Limits fuer Schritte, Zeit und Kosten. Erste Einrichtung: spectre init
+
