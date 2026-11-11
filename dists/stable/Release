@@ -1,24 +1,24 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Wed, 11 Nov 2026 19:10:18 +0000
+Date: Wed, 11 Nov 2026 22:10:39 +0000
 Description: Spectre apt archive
 Label: Spectre
 Origin: Spectre
 Suite: stable
 MD5Sum:
- 015b303bb13abe9f36f469a7738c9ade              169 Release
- 3dcea70a5a79c46cce459617e4e86bbf             1445 main/binary-all/Packages
- b1bb81347f9f99affa5f9f1c95d10213              821 main/binary-all/Packages.gz
+ 543343fd60920765a5074425d199b2c8              169 Release
+ 3bd9075bd96833bb62b8e9e0ebc43f50             1445 main/binary-all/Packages
+ 2e698d99e1595960ab87f4931ada71bf              821 main/binary-all/Packages.gz
 SHA1:
- d82363db614da1f288dfff8d65c738f21b0b8f9a              169 Release
- 8126fb477901a335364e2013dd725a1de3f237e5             1445 main/binary-all/Packages
- cef26e9592c439991165d981d6f8520548762b1d              821 main/binary-all/Packages.gz
+ 9010c81b0b7f1302fc61b6c32887cac283aab75a              169 Release
+ 04f6170a766172dcee0904a2620d58770c963896             1445 main/binary-all/Packages
+ a3ab741da5f3fd6448dacd8d973045bacb817b27              821 main/binary-all/Packages.gz
 SHA256:
- 007d921632ea4e93b59a4904ddad21cc14e604c154d96e175b5c0e6cf3382da7              169 Release
- 65048ca09fba288d507d16cff7eb2ef20eaffc87fb35f520acf984e7c696a249             1445 main/binary-all/Packages
- 41185cc841ffe810f30672d83b616533063b07000a93d6a2921c7228c4d577cb              821 main/binary-all/Packages.gz
+ b107d8e35afec07a242e0ce408439c0d38ae0d4e23c5dc4f5b9f055f20dba3ca              169 Release
+ 6281c608f637c84bfcbd33038be5a5a55371971b484a4a6042e4d43f172c9b1f             1445 main/binary-all/Packages
+ 13cf0bd2d33f00a36de5f121e12252e6aea4c153265d538d45cf89594f6b02e0              821 main/binary-all/Packages.gz
 SHA512:
- 57f60ae8d94b7861f44df46d90ad945ed9b917542df4c0cdd245a67473cd8e96d015531947bb7d672221260fab725eab83cf311b78bde4c47efe984457f3a232              169 Release
- faf2c83b9de82170e9f48a018f396ac58ce4ee08613668f092e32ec5c7c79bcc7947c685bc0f7a27dee3e80217b82097a98c753a068d62bb5818514e3d51876a             1445 main/binary-all/Packages
- d3b1c5bd4b60fae7f2fb638175cd4c1ec4ef4448db583309e4f5f371fdbaa17e762253eaeeac183238980d44dce04cd23abdf05d6233480b5c17115f1dbb24b3              821 main/binary-all/Packages.gz
+ 3c38c759bb42d6dde28031b4edf7f25154f988d6ce00716adac1ef670da324c90b2ef456d0888602f12b3b7795c793b55b2180df7e7872b97684bdb4b819677a              169 Release
+ e85ad68cb0d9f3d35eb73632985e7abecbf147360a3228a509d0b1ebb5da8bf6eca4f583173aae9baae043d1484da52bb92e15e9cb95212aee79fb9e5d79fcc9             1445 main/binary-all/Packages
+ 6f08b52e6883ff694b19909bc1801a072f64d0140968d52053a8ee71a551d6fd3316d5024c4ec3472892a82140300d55d318223a2c4c0613708f030caf1c1e30              821 main/binary-all/Packages.gz
