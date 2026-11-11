@@ -1,33 +1,34 @@
 Package: spectre
-Version: 0.2.0
+Version: 0.3.0
 Architecture: all
 Maintainer: Benjamin Tanners <noreply@invalid>
-Installed-Size: 148
+Installed-Size: 184
 Depends: python3 (>= 3.10)
 Recommends: spectre-code
-Filename: pool/main/s/spectre/spectre_0.2.0_all.deb
-Size: 23536
-MD5sum: 2196b1f7e0ecde8291d8c922e9971f0c
-SHA1: 9098cb988820dca4bf2bd224f284f071e75db3c5
-SHA256: d13cb36926ae757f86d3c4fe9e7dcf6836001622c6dc7a06135653f799c7f920
+Filename: pool/main/s/spectre/spectre_0.3.0_all.deb
+Size: 30408
+MD5sum: 49a1d7f755b565bc24f1d545be2f54dd
+SHA1: d4e616e81dbc6c203944db1b8b084d8d49d6ea79
+SHA256: 726c0dfb1c0c6598f3ca8ab31bd1c2e67be99e830fafe7d603478e26f488ba51
 Section: utils
 Priority: optional
 Description: Kleines Agenten-Harness (Spectre)
  Spectre ruft ein Sprachmodell ueber OpenRouter auf und gibt ihm Werkzeuge
- (Dateien im Arbeitsordner lesen und schreiben, Notizgedaechtnis), mit
- Limits fuer Schritte, Zeit und Kosten. Erste Einrichtung: spectre init
+ (Dateien im Arbeitsordner lesen, schreiben und durchsuchen, Shell nach
+ Freigabe, Notizgedaechtnis), mit Limits fuer Schritte, Zeit und Kosten.
+ Erste Einrichtung: spectre init
 
 Package: spectre-code
-Version: 0.2.0
+Version: 0.3.0
 Architecture: all
 Maintainer: Benjamin Tanners <noreply@invalid>
 Installed-Size: 20716
-Depends: spectre (= 0.2.0), python3 (>= 3.10)
-Filename: pool/main/s/spectre/spectre-code_0.2.0_all.deb
-Size: 3288488
-MD5sum: a8d2587c312f45be30e9da714ae913cc
-SHA1: 0e3eb7913bbd9f04e469f7a93058ab5835325f0e
-SHA256: 81f41069d48d0a672492787e2644e22129e079930b39c3e7304747050fa10283
+Depends: spectre (= 0.3.0), python3 (>= 3.10)
+Filename: pool/main/s/spectre/spectre-code_0.3.0_all.deb
+Size: 3289884
+MD5sum: 804f37399a7a21a682d332fddca8f530
+SHA1: fbe1f882b39d3cc76ce64c10da95106d48f1704b
+SHA256: 9a40fcdd6ee44145bd91b0eb591662d25240b85075f0dfa5836971106b51cee6
 Section: utils
 Priority: optional
 Description: Terminal-Oberflaeche fuer Spectre (Spectre Code)
